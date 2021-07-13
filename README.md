@@ -75,7 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Frontend Mentor - Crowdfunding product page
 
-![Design preview for the Crowdfunding product page coding challenge](.src/design/desktop-preview.jpg)
+![Design preview for the Crowdfunding product page coding challenge](./src/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
